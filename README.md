@@ -22,8 +22,8 @@ One or two sentences on what these scripts do, with a link to the article: [Full
 ├── .gitignore
 ├── data/        # input data (or how to get data from a remote repository)
 ├── scripts/     # analysis scripts, numbered (01_..., 02_...)
-├── functions/   # functions used by the scripts
-├── outputs/     # generated outputs (tables, models)
+├── functions/   # functions used by the scripts (optional)
+├── outputs/     # generated outputs (tables, models) (optional)
 └── figures/     # generated figures
 ```
 
