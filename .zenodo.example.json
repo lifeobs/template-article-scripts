@@ -1,0 +1,25 @@
+{
+  "title": "Code for: Title of the accepted manuscript",
+  "upload_type": "software",
+  "description": "Scripts for the analyses presented in the associated article.",
+  "access_right": "open",
+  "license": "gpl-3.0-or-later",
+  "keywords": ["species", "topic", "additional keyword"],
+  "creators": [
+    {
+      "name": "last name, first name",
+      "affiliation": "lab or university name, country",
+      "orcid": "0000-0000-0000-0000"
+    },
+    {
+      "name": "last name, first name",
+      "affiliation": "lab or university name, country"
+      "orcid": "0000-0000-0000-0000"
+    }
+  ],
+  "related_identifiers": [
+    {"relation": "isSupplementTo", "identifier": "10.xxxx/article-doi", "scheme": "doi"},
+    {"relation": "references", "identifier": "10.xxxx/dataset-doi_if-relevant", "scheme": "doi"}
+  ],
+  "communities": [{"identifier": "lifeobs"}]
+}
