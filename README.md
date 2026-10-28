@@ -4,7 +4,7 @@
 > 1. Click "Use this template" and name the repository `year-lastname-topic`.
 > 2. Replace everything in [brackets], and delete the folders you do not need.
 > 3. Fill in `.zenodo.json` and `CITATION.cff` (authors, affiliations, ORCID).
-> 4. Check the license and add the topic `article-scripts`.
+> 4. Check the license.
 
 ## Overview
 One or two sentences on what these scripts do, with a link to the article: [Full reference](https://doi.org/10.xxxx/xxxxx).
