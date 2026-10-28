@@ -3,8 +3,9 @@
 > **How to use this template** (delete this block once the README is filled in)
 > 1. Click "Use this template" and name the repository `year-lastname-topic`.
 > 2. Replace everything in [brackets], and delete the folders you do not need.
-> 3. Fill in `.zenodo.json` and `CITATION.cff` (authors, affiliations, ORCID).
-> 4. Check the license.
+> 3. Check the license.
+> 4. Fill in `.zenodo.example.json`, then rename it to `.zenodo.json` (and delete the placeholders you do not need) before creating a release.
+> 5. Fill in `CITATION.example.cff`, then rename it to `CITATION.cff`.
 
 ## Overview
 One or two sentences on what these scripts do, with a link to the article: [Full reference](https://doi.org/10.xxxx/xxxxx).
