@@ -1,0 +1,28 @@
+# Template: fill in, then rename to CITATION.cff.
+# Replace every placeholder (also the year, which must be a number).
+# If the article has no DOI yet, remove the "preferred-citation" block
+# and change "message" to: "If you use these scripts, please cite them using the metadata of this file."
+cff-version: 1.2.0
+message: "If you use these scripts, please cite the article below."
+title: "Code for: Article title"
+authors:
+  - family-names: Last name
+    given-names: First name
+    affiliation: affiliation
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   (optional, full URL)
+  - family-names: Last name
+    given-names: First name
+    affiliation: affiliation
+license: GPL-3.0-or-later
+repository-code: "https://github.com/lifeobs/repository-name"
+preferred-citation:
+  type: article
+  title: "Article title"
+  authors:
+    - family-names: Last name
+      given-names: First name
+    - family-names: Last name
+      given-names: First name
+  journal: "Journal name"
+  year: YYYY
+  doi: "10.xxxx/article-doi"
